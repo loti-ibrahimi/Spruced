@@ -1,0 +1,83 @@
+[
+  {
+    "cutPrice": 12,
+    "likes": 18,
+    "_id": 1089,
+    "cutType": "curly overhang w/ mid-skin-fade",
+    "cutDate": "07.10.2018",
+    "barberName": "Mick J. Squire",
+    "__v": 0
+  },
+  {
+    "cutPrice": 10,
+    "likes": 6,
+    "_id": 8450,
+    "cutType": "high-skin-fade & shave",
+    "cutDate": "06.10.2018",
+    "barberName": "Ilir Muhaxheri",
+    "__v": 0
+  },
+  {
+    "cutPrice": 10,
+    "likes": 9,
+    "_id": 942,
+    "cutType": "cropped & shave",
+    "cutDate": "06.10.2018",
+    "barberName": "Ilir Muhaxheri",
+    "__v": 0
+  },
+  {
+    "cutPrice": 10,
+    "likes": 5,
+    "_id": 5674,
+    "cutType": "Quiff w/ high-skin-fade",
+    "cutDate": "07.10.2018",
+    "barberName": "Raj Khan",
+    "__v": 0
+  },
+  {
+    "cutPrice": 10,
+    "likes": 3,
+    "_id": 4426,
+    "cutType": "Short on top w/ low-skin-fade on sides",
+    "cutDate": "08.10.2018",
+    "barberName": "Raj Khan",
+    "__v": 0
+  },
+  {
+    "cutPrice": 11,
+    "likes": 11,
+    "_id": 1210,
+    "cutType": "Short Curls + Drop Fade",
+    "cutDate": "08.10.2018",
+    "barberName": "Ed Cooper",
+    "__v": 0
+  },
+  {
+    "cutPrice": 11,
+    "likes": 3,
+    "_id": 32,
+    "cutType": "Crew Cut + Beard",
+    "cutDate": "09.10.2018",
+    "barberName": "Ed Cooper",
+    "__v": 0
+  },
+  {
+    "cutPrice": 9,
+    "likes": 7,
+    "_id": 667,
+    "cutType": "Textured-Crop Hairstyle",
+    "cutDate": "09.10.2018",
+    "barberName": "Danis Meta Jr",
+    "__v": 0
+  },
+  {
+    "cutPrice": 9,
+    "likes": 13,
+    "_id": 5298,
+    "cutType": "Caesar Haircut",
+    "cutDate": "09.10.2018",
+    "barberName": "Danis Meta Jr",
+    "__v": 0
+  }
+]

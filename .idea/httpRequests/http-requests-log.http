@@ -1,0 +1,393 @@
+DELETE http://localhost:3000/cuts/9532?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz-cut + Shave", "cutPrice":13, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T112127.200.html
+
+###
+
+PUT http://localhost:3000/cuts/9532/likes?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz-cut + Shave", "cutPrice":13, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T112106.200.html
+
+###
+
+PUT http://localhost:3000/cuts/9532/likes?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz-cut + Shave", "cutPrice":13, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T112100.200.html
+
+###
+
+PUT http://localhost:3000/cuts/9532?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz-cut + Shave", "cutPrice":13, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T112034.200.html
+
+###
+
+POST http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111950.200.json
+
+###
+
+GET http://localhost:3000/cuts/cutDate/09.10.2018?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111910.200.json
+
+###
+
+GET http://localhost:3000/cuts/barberName/Ed%20Cooper?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111814.200.json
+
+###
+
+GET http://localhost:3000/cuts/5298?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111737.200.json
+
+###
+
+GET http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111711.200.json
+
+###
+
+GET http://localhost:3000/cuts/1089?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111417.200.json
+
+###
+
+GET http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T111346.200.json
+
+###
+
+DELETE http://localhost:3000/cuts/9458?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T110517.200.html
+
+###
+
+DELETE http://localhost:3000/cuts/2538?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T110437.200.html
+
+###
+
+PUT http://localhost:3000/cuts/2538/likes?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T110315.200.html
+
+###
+
+PUT http://localhost:3000/cuts/2538/likes?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T110302.200.html
+
+###
+
+PUT http://localhost:3000/cuts/2538?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"High-Skin Fade + Beard Trim", "cutPrice":12, "cutDate": "21.10.2018", "barberName":"Susy B. Michaels", "likes":3}
+
+<> 2018-10-29T110218.200.html
+
+###
+
+POST http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Long ontop - side fade", "cutPrice":6, "cutDate": "21.10.2018", "barberName":"Susy Michaels", "likes":3}
+
+<> 2018-10-29T110052.200.json
+
+###
+
+POST http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T110001.200.json
+
+###
+
+GET http://localhost:3000/cuts/cutDate/09.10.2018?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T105917.200.json
+
+###
+
+GET http://localhost:3000/cuts/barberName/Ed%20Cooper?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T105820.200.json
+
+###
+
+GET http://localhost:3000/cuts/5298?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T105722.200.json
+
+###
+
+GET http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T105648.200.json
+
+###
+
+GET http://localhost:3000/cuts/8036?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T104521.200.json
+
+###
+
+GET http://localhost:3000/cuts/8036?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T104320.200.json
+
+###
+
+GET http://localhost:3000/cuts/8036?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T104319.200.json
+
+###
+
+DELETE http://localhost:3000/cuts/8036?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T104222.200.html
+
+###
+
+PUT http://localhost:3000/cuts/8036/likes?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T104119.200.html
+
+###
+
+PUT http://localhost:3000/cuts/8036?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T103937.200.html
+
+###
+
+POST http://localhost:3000/cuts/8036?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut + Shave", "cutPrice":10, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T103854.404.html
+
+###
+
+POST http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz Cut", "cutPrice":5, "cutDate": "20.10.2018", "barberName":"Sile Michaels", "likes":3}
+
+<> 2018-10-29T103700.200.json
+
+###
+
+GET http://localhost:3000/cuts/cutDate/09.10.2018?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T103516.200.json
+
+###
+
+GET http://localhost:3000/cuts/barberName/Raj%20Khan?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T103420.200.json
+
+###
+
+GET http://localhost:3000/cuts/5298?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T103305.200.json
+
+###
+
+GET http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T103211.200.json
+
+###
+
+GET http://localhost:3000?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T102355.200.html
+
+###
+
+GET http://localhost:3000/cuts/32?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T102237.200.json
+
+###
+
+GET http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-10-29T102102.200.json
+
+###
+

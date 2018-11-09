@@ -1,0 +1,20 @@
+[
+  {
+    "cutPrice": 11,
+    "likes": 11,
+    "_id": 1210,
+    "cutType": "Short Curls + Drop Fade",
+    "cutDate": "08.10.2018",
+    "barberName": "Ed Cooper",
+    "__v": 0
+  },
+  {
+    "cutPrice": 11,
+    "likes": 3,
+    "_id": 32,
+    "cutType": "Crew Cut + Beard",
+    "cutDate": "09.10.2018",
+    "barberName": "Ed Cooper",
+    "__v": 0
+  }
+]
