@@ -1,3 +1,12 @@
+POST http://localhost:3000/cuts?=
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"cutType":"Buzz-cut + Shave", "cutPrice":13, "cutDate": "05.11.2018", "barberName":"Susy B. Michaels", "likes":5}
+
+###
+
 DELETE http://localhost:3000/cuts/9532?=
 Accept: */*
 Cache-Control: no-cache
