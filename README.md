@@ -36,6 +36,8 @@
  ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/heroku.jpeg) 
  
  The Web App was deployed using Heroku: https://spruced.herokuapp.com/
+ - https://spruced.herokuapp.com/cuts (display all cuts)
+ - https://spruced.herokuapp.com/barbers (display all barbers)
  
  ## Persistence 
  ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/mlab.png)
