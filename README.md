@@ -33,7 +33,7 @@
  * DELETE/ - **barbers/:id** - Deletes an individual Barber via specified Barber ID along with associated metadata.
  
  ## Deployment
- ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/) 
+ ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/heroku.jpeg) 
  
  The Web App was deployed using Heroku: https://spruced.herokuapp.com/
  
