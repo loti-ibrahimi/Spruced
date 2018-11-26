@@ -2,7 +2,7 @@ let mongoose = require('mongoose');
 let Cuts = require('../models/cuts');
 let express = require('express');
 let router = express.Router();
-var mongodbUri = 'mongodb://loti.ibrahimi:Prishtina8991MLAB@ds137863.mlab.com:37863/getsprucedb';
+var mongodbUri = 'mongodb://loti.ibrahimi:webappdev2@ds137863.mlab.com:37863/getsprucedb';
 
 mongoose.connect(mongodbUri);
 

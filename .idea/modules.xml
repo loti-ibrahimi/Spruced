@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GetSpruce.iml" filepath="$PROJECT_DIR$/.idea/GetSpruce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spruced.iml" filepath="$PROJECT_DIR$/.idea/Spruced.iml" />
     </modules>
   </component>
 </project>
