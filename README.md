@@ -32,10 +32,14 @@
  * PUT/ - **barbers/:id/likes** - Updates an individual Barber by incrementing the likes +1.
  * DELETE/ - **barbers/:id** - Deletes an individual Barber via specified Barber ID along with associated metadata.
  
- #### Deployment
- The Web App is deployed to Heroku: https://spruced.herokuapp.com/
+ ## Deployment
+ ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/heroku.jpeg) 
  
- ## Persistence ## 
+ The Web App was deployed using Heroku: https://spruced.herokuapp.com/
+ - https://spruced.herokuapp.com/cuts (display all cuts)
+ - https://spruced.herokuapp.com/barbers (display all barbers)
+ 
+ ## Persistence 
  ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/mlab.png)
  
  **MongoDB** and **Mongoose** were made use of in the development of this Web App back-end. 
@@ -47,6 +51,6 @@
  ## DX Approach
  Clear & readable code format - made use of comments throughout the project files, not only to provide an explanation of functions of the code in use but also for visual neatness/readability. 
  
- ## References ##
+ ## References 
  The base code structure was created with the help of David Drohans [Web App Development 2 (lab tutorials)](https://ddrohan.github.io/wit-wad-2-2018/topic02-wad/index.html).
 
