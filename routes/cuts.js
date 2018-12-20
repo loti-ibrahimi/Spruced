@@ -26,7 +26,7 @@ router.findAll = (req, res) => {
     Cuts.find(function(err, foundCuts) {
         if (err)
             res.send(err);
-        res.send(JSON.stringify(foundCuts,null,5));
+        res.send(foundCuts,null,5);
     });
 };
 
@@ -37,7 +37,7 @@ router.findOne = (req, res) => {
         if (err)
             res.send("!Error ~ Cut not found..");
         else
-            res.send(JSON.stringify(foundCuts,null,5))
+            res.send(foundCuts,null,5)
     });
 };
 
@@ -48,7 +48,7 @@ router.findByBarberName = (req, res) => {
         if (err) {
             res.send("!Error ~ Cut not found..");
         } else {
-            res.send(JSON.stringify(foundCuts,null,5))
+            res.send(foundCuts,null,5)
         }
     })
 };
@@ -60,7 +60,7 @@ router.findByDate = (req, res) => {
         if (err) {
             res.send("!Error ~ Cuts not found..");
         } else {
-            res.send(JSON.stringify(foundCuts,null,5))
+            res.send(foundCuts,null,5)
         }
     })
 };

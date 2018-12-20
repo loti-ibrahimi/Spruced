@@ -9,7 +9,6 @@ Lecturer: David Drohan
  */
 
 
-
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -17,6 +16,9 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+
+// Require Cors Module for Vue front-end
+var cors = require('cors');
 
 // Making use of routes cuts & barbers.
 const cuts = require("./routes/cuts");
@@ -35,6 +37,9 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
+
+// Use cors
+app.use(cors());
 
 
 // ------------- All 'get' routes for Cuts & Barbers --------------- //
