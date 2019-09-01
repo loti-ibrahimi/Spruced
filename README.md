@@ -5,8 +5,6 @@
  ## Description of Application 
  Web application platform for individual barbers to showcase their cuts - Spruced.
  
- Preview of Web App (back-end) server testing - YouTube link: https://www.youtube.com/watch?v=yVPqSdyGbFg
- 
  ## Functionality Description
  ### Showcase Models:
  1. Cuts - Range of haircuts (cutType, cutPrice, cutDate, barberName, likes)
